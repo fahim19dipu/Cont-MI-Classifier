@@ -1,0 +1,69 @@
+\begin{thebibliography}{10}
+
+\bibitem{1}
+Andrew~B. Schwartz, X.~Tracy Cui, Douglas J. Weber, and Daniel~W. Moran.
+\newblock Brain-{Controlled} {Interfaces}: {Movement} {Restoration} with
+  {Neural} {Prosthetics}.
+\newblock {\em Neuron}, 52(1):205--220, October 2006.
+
+\bibitem{2}
+Jan van Erp, Fabien Lotte, and Michael Tangermann.
+\newblock Brain-{Computer} {Interfaces}: {Beyond} {Medical} {Applications}.
+\newblock {\em Computer}, 45(4):26--34, April 2012.
+
+\bibitem{3}
+Sameer Saproo, Josef Faller, Victor Shih, Paul Sajda, Nicholas~R. Waytowich,
+  Addison Bohannon, Vernon~J. Lawhern, Brent~J. Lance, and David Jangraw.
+\newblock Cortically {Coupled} {Computing}: {A} {New} {Paradigm} for
+  {Synergistic} {Human}-{Machine} {Interaction}.
+\newblock {\em Computer}, 49(9):60--68, September 2016.
+
+\bibitem{4}
+B.~J. Lance, S.~E. Kerick, A.~J. Ries, K.~S. Oie, and K.~McDowell.
+\newblock Brain–{Computer} {Interface} {Technologies} in the {Coming}
+  {Decades}.
+\newblock {\em Proceedings of the IEEE}, 100(Special Centennial
+  Issue):1585--1599, May 2012.
+
+\bibitem{5}
+D.J. McFarland, C.W. Anderson, K.-R. Muller, A.~Schlogl, and D.J. Krusienski.
+\newblock {BCI} meeting 2005-workshop on {BCI} signal processing: feature
+  extraction and translation.
+\newblock {\em IEEE Transactions on Neural Systems and Rehabilitation
+  Engineering}, 14(2):135--138, June 2006.
+
+\bibitem{6}
+C.~Guger, H.~Ramoser, and G.~Pfurtscheller.
+\newblock Real-time {EEG} analysis with subject-specific spatial patterns for a
+  brain-computer interface ({BCI}).
+\newblock {\em IEEE Transactions on Rehabilitation Engineering}, 8(4):447--456,
+  December 2000.
+
+\bibitem{7}
+H.~Ramoser, J.~Muller-Gerking, and G.~Pfurtscheller.
+\newblock Optimal spatial filtering of single trial {EEG} during imagined hand
+  movement.
+\newblock {\em IEEE Transactions on Rehabilitation Engineering}, 8(4):441--446,
+  December 2000.
+
+\bibitem{8}
+Moritz Grosse-Wentrup and Martin Buss.
+\newblock Multiclass {Common} {Spatial} {Patterns} and {Information}
+  {Theoretic} {Feature} {Extraction}.
+\newblock {\em IEEE Transactions on Biomedical Engineering}, 55(8):1991--2000,
+  August 2008.
+
+\bibitem{9}
+{Xiang Liao}, {Dezhong Yao}, D.~Wu, and {Chaoyi Li}.
+\newblock Combining {Spatial} {Filters} for the {Classification} of
+  {Single}-{Trial} {EEG} in a {Finger} {Movement} {Task}.
+\newblock {\em IEEE Transactions on Biomedical Engineering}, 54(5):821--831,
+  May 2007.
+
+\bibitem{10}
+{Hyohyeong Kang}, {Yunjun Nam}, and {Seungjin Choi}.
+\newblock Composite {Common} {Spatial} {Pattern} for {Subject}-to-{Subject}
+  {Transfer}.
+\newblock {\em IEEE Signal Processing Letters}, 16(8):683--686, August 2009.
+
+\end{thebibliography}
